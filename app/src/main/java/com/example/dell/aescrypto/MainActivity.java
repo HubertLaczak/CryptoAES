@@ -87,3 +87,9 @@ public class MainActivity extends AppCompatActivity {
         return secretKeySpec;
     }
 }
+
+/*Usefull links
+    1) https://developer.android.com/guide/topics/security/cryptography
+    2) http://tutorials.jenkov.com/java-cryptography/index.html
+    3) https://www.tutorialspoint.com/java_cryptography/java_cryptography_message_digest.htm
+ */
